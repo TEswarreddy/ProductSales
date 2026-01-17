@@ -1,0 +1,6 @@
+C:\Users\thath\OneDrive\Desktop\mphasis_practice\ExceptionLayer\bin\Debug\ExceptionLayer.dll
+C:\Users\thath\OneDrive\Desktop\mphasis_practice\ExceptionLayer\bin\Debug\ExceptionLayer.pdb
+C:\Users\thath\OneDrive\Desktop\mphasis_practice\ExceptionLayer\obj\Debug\ExceptionLayer.csproj.AssemblyReference.cache
+C:\Users\thath\OneDrive\Desktop\mphasis_practice\ExceptionLayer\obj\Debug\ExceptionLayer.csproj.CoreCompileInputs.cache
+C:\Users\thath\OneDrive\Desktop\mphasis_practice\ExceptionLayer\obj\Debug\ExceptionLayer.dll
+C:\Users\thath\OneDrive\Desktop\mphasis_practice\ExceptionLayer\obj\Debug\ExceptionLayer.pdb
