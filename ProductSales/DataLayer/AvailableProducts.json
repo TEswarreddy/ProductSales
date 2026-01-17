@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "Mob202610",
+    "Name": "Mobile",
+    "expireDate": "2028-01-17T00:00:00",
+    "purchaseDate": "2026-01-17T00:00:00",
+    "Gst": 5,
+    "Discount": 10,
+    "Price": 100000,
+    "Quantity": 1
+  },
+  {
+    "Id": "Cha202611",
+    "Name": "Charger",
+    "expireDate": "2028-01-17T00:00:00",
+    "purchaseDate": "2026-01-17T00:00:00",
+    "Gst": 5,
+    "Discount": 5,
+    "Price": 560,
+    "Quantity": 1
+  }
+]

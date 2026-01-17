@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ExceptionLayer/ExceptionLayer.csproj" Id="8759b12b-2b96-40fe-8845-002cac7dfc46" />
+  <Project Path="ProductSales.csproj" Id="3ebb6016-7c3f-4dce-b2e4-463872d08136" />
+</Solution>
