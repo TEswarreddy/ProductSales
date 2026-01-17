@@ -1,13 +1,21 @@
 Install Visual Studio Community free Version.
+
 After Installation ,open Visual studio then click on file->New->project/Solution .
+
 Then choose  "Console App (.Net Framework) " template , after that click on next.
+
 Then open a window about Configure Project
+
     -Type Project Name as ProductSales
+    
     -click on check box ax "place solution and project in the same Directory"
+    
     - choose version .Net FrameWork 4.8
 
 After that opens Program.cs class , copy the code from  https://github.com/TEswarreddy/ProductSales/blob/main/ProductSales/Program.cs and then paste on your class.
+
 Right click on ProductSales File and then Click on add-> New Folder
+
     -> create DataLayer Folder 
        then right click on folder add below Items
           -  Counter.txt file
