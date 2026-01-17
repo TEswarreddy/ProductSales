@@ -29,10 +29,16 @@ Open Product.cs class and then copy code from https://github.com/TEswarreddy/Pro
 creating ExceptionLayer Dll fille and using in project
 
 -Right Click on ProductSales/solution file on click on newproject then choose "Class library (.Net Framework)" template
+
 -View the ExceptionLayer from https://github.com/TEswarreddy/ProductSales/tree/main/ProductSales
+
 -create userdefined Exception classes as it as like ExceptionLayer folder
+
 -Then click Build option, after it creates Dll file
+
 -after that go to tha ProductSales -> References right clock on Reference then choose AddRefernece->Project click on checkBox of Exceptionlaye then click on Ok.
+
+
 
 For Json Serilization and Deserialization install Newtonsoft package from NuGet Package
 
